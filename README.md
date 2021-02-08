@@ -1,2 +1,2 @@
 # rileyokbu
-This is for computing II and will be used for educational uses only.
+This is for computing II(GNSC 3301) and will be used for educational uses only.
